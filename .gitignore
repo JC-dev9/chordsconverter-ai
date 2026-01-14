@@ -1,0 +1,34 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+.venv/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Audio / outputs
+*.mid
+resultado_final.mid
+musica.wav
+
+# Logs
+*.log
+
+# PyInstaller
+dist/
+build/
+
+# Secrets
+.env
+.env.local
